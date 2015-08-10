@@ -1,0 +1,175 @@
+##<date>20120802</date>##
+127.0.0.1 localhost
+
+127.0.0.1 api.admob.com
+127.0.0.1 mm.admob.com
+127.0.0.1 r.admob.com
+127.0.0.1 mmv.admob.com
+127.0.0.1 media.admob.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 pagead2.googlesyndication.com
+
+127.0.0.1 ade.wooboo.com.cn
+127.0.0.1 static.wooboo.com.cn
+
+127.0.0.1 gw.youmi.net
+127.0.0.1 static.youmi.net
+127.0.0.1 aos.gw.youmi.net
+127.0.0.1 stat.gw.youmi.net
+127.0.0.1 aos.wall.youmi.net
+
+127.0.0.1 wap.casee.cn
+127.0.0.1 pic.casee.cn
+
+127.0.0.1 d.wiyun.com
+
+127.0.0.1 www.adview.cn
+127.0.0.1 report.adview.cn
+
+127.0.0.1 r.domob.cn
+127.0.0.1 s.domob.cn
+
+127.0.0.1 cfg.adsmogo.com
+127.0.0.1 cfg.adsmogo.net
+127.0.0.1 cfg.adsmogo.mobi
+127.0.0.1 cfg.adsmogo.org
+127.0.0.1 req.adsmogo.com
+127.0.0.1 req.adsmogo.org
+127.0.0.1 req.adsmogo.net
+127.0.0.1 req.adsmogo.mobi
+127.0.0.1 imp.adsmogo.com
+127.0.0.1 imp.adsmogo.net
+127.0.0.1 imp.adsmogo.org
+127.0.0.1 imp.adsmogo.mobi
+127.0.0.1 blk.adsmogo.org
+127.0.0.1 blk.adsmogo.net
+127.0.0.1 blk.adsmogo.com
+127.0.0.1 blk.adsmogo.mobi
+127.0.0.1 cus.adsmogo.org
+127.0.0.1 cus.adsmogo.com
+127.0.0.1 cus.adsmogo.net
+127.0.0.1 cus.adsmogo.mobi
+127.0.0.1 my.adsmogo.com
+127.0.0.1 my.adsmogo.net
+127.0.0.1 my.adsmogo.mobi
+127.0.0.1 my.adsmogo.org
+
+127.0.0.1 appsrv1.madserving.cn
+127.0.0.1 appsrv1.madserving.com
+
+127.0.0.1 hermes.airad.com
+127.0.0.1 ad.airad.com
+
+127.0.0.1 cn.ad.adon.vpon.com
+127.0.0.1 cn.img.adon.vpon.com
+127.0.0.1 cn.api.vpon.com
+
+127.0.0.1 ads.lmmob.com
+
+127.0.0.1 r2.adwo.com
+127.0.0.1 static.adwo.com
+
+127.0.0.1 ads.waps.cn
+127.0.0.1 ads.wapx.cn
+210.83.80.207 app.wapx.cn
+127.0.0.1 push.wapx.cn
+
+127.0.0.1 api.airpush.com
+
+127.0.0.1 data.flurry.com
+127.0.0.1 www.uyunad.com
+127.0.0.1 i.uyunad.com
+
+127.0.0.1 static.189works.com
+
+127.0.0.1 mob.guohead.com
+127.0.0.1 met.guohead.com
+127.0.0.1 ads.guohead.com
+
+127.0.0.1 test.adpooh.com
+
+127.0.0.1 mw.app.qq.com
+127.0.0.1 adpm.app.qq.com
+
+127.0.0.1 api.dianru.com
+127.0.0.1 static.dianru.com
+
+127.0.0.1 www.cooguo.com
+127.0.0.1 download.cooguo.com
+
+127.0.0.1 mob.adwhirl.com
+127.0.0.1 met.adwhirl.com
+
+127.0.0.1 androidsdk.ads.mp.mydas.mobi
+
+127.0.0.1 ex.puata.info
+
+127.0.0.1 www.winads.cn
+127.0.0.1 down.winads.cn
+
+127.0.0.1 dp2.devopenserv.com
+
+127.0.0.1 config.adsage.com
+127.0.0.1 mobi.adsage.com
+127.0.0.1 trc.adsage.com
+
+127.0.0.1 mws.pubsage.com
+
+127.0.0.1 api.suizong.com
+
+127.0.0.1 mgr.aduu.cn
+127.0.0.1 res.aduu.cn
+
+127.0.0.1 www.speedtong.net
+
+127.0.0.1 adc.medibaad.com
+
+127.0.0.1 ox-i.ad-maker.info
+127.0.0.1 ox-d.ad-maker.info
+
+127.0.0.1 client.azrj.cn
+
+127.0.0.1 api.appmedia.cn
+127.0.0.1 www.appmedia.cn
+127.0.0.1 img.appmedia.cn
+
+127.0.0.1 mjoy.91.com
+
+127.0.0.1 www.anadmob.net
+
+127.0.0.1 noticemob.com
+
+127.0.0.1 ex.umengcloud.com
+
+127.0.0.1 ad.moji001.com
+
+127.0.0.1 cdn.puata.info
+
+127.0.0.1 v1-feed.idreamsky.com
+
+127.0.0.1 an.appads.com
+127.0.0.1 neptune.appads.com
+
+127.0.0.1 cloud.rovio.com
+127.0.0.1 news-assets.rovio.com
+
+127.0.0.1 appsrv1.mdn2.net
+
+127.0.0.1 www.punchbox.org
+127.0.0.1 pic.punchbox.org
+
+127.0.0.1 www.zhesm.com
+
+127.0.0.1 bos.ads0.nexage.com
+127.0.0.1 apps.outfit7.com
+127.0.0.1 ads.mobclix.com
+127.0.0.1 data.mobclix.com
+127.0.0.1 bos.ads0.nexage.com
+127.0.0.1 s.mobclix.com
+127.0.0.1 c53.smaato.net
+127.0.0.1 as.adfonic.net
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 c20.smaato.net
+
+127.0.0.1 www.admarket.mobi
+
